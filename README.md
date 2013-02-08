@@ -1,6 +1,6 @@
-# Velkomment til BucketRails
+# Velkomment til Railsinstaller Demo
 ----------------------------------
-Det er noget med Rails og BitBucket
+Det er noget med Rails og GIT
 
 ## Blokke
 
